@@ -488,13 +488,13 @@
   {
     "cbor": "X0IBAkMDBAX/",
     "hex": "5f42010243030405ff",
-    "roundtrip": true,
+    "roundtrip": false,
     "diagnostic": "(_ h'0102', h'030405')"
   },
   {
     "cbor": "f2VzdHJlYWRtaW5n/w==",
     "hex": "7f657374726561646d696e67ff",
-    "roundtrip": true,
+    "roundtrip": false,
     "decoded": "streaming"
   },
   {
